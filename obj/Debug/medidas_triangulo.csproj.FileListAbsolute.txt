@@ -1,0 +1,7 @@
+C:\Users\guilh\source\repos\medidas_triangulo\bin\Debug\medidas_triangulo.exe.config
+C:\Users\guilh\source\repos\medidas_triangulo\bin\Debug\medidas_triangulo.exe
+C:\Users\guilh\source\repos\medidas_triangulo\bin\Debug\medidas_triangulo.pdb
+C:\Users\guilh\source\repos\medidas_triangulo\obj\Debug\medidas_triangulo.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\medidas_triangulo\obj\Debug\medidas_triangulo.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\medidas_triangulo\obj\Debug\medidas_triangulo.exe
+C:\Users\guilh\source\repos\medidas_triangulo\obj\Debug\medidas_triangulo.pdb
