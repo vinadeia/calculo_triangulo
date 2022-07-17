@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Globalization;
 
 namespace medidas_triangulo
@@ -33,14 +29,8 @@ namespace medidas_triangulo
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
-            if(areaX > areaY)
-            {
-                Console.WriteLine("A maior área é : X");
-            }
-            else
-            {
                 Console.WriteLine("A maior área é : Y");
-            }
+            
         }
     }
 }
