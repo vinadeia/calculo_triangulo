@@ -17,7 +17,6 @@ namespace medidas_triangulo
             x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-
             Console.WriteLine("Entre com as medidas do Triângulo Y:");
             y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
@@ -28,9 +27,9 @@ namespace medidas_triangulo
 
             Console.WriteLine("Área de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
             Console.WriteLine("Área de y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
+            Console.WriteLine("A maior área é : Y");
+            Console.ReadKey(); // Aguarda o usuário precionar um tecla, nunca esquecer   :S
 
-                Console.WriteLine("A maior área é : Y");
-            
         }
     }
 }
